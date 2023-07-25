@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(239, 235, 230);
+    position: relative;
+}
+.box-part{
+    background-color:rgb(19, 114, 114);
+    border-radius: 10px;
+}
+
+
+.row1{
+    background-color:grey;
+    height: 400px;
+    width: 260px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box-color{
+    position: relative;
+    left: 400px;
+    width: 450px;
+    background-color: gray;
+    margin-top:10px;
+    border-radius: 5px;
+
+  
+}
+.box-2part{
+    position: relative;
+    top: 60px;
+    left: 360px;
+    height: 100px;
+    width: 500px;
+    background-color:gray;
+    border-radius: 10px;
+    
+}
+.box-ipart{
+    position: relative;
+    background-color: rgb(86, 83, 83);
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    left: 500px;
+    border-radius: 10px;
+   
+}
+.box-ypart{
+    position: relative;
+    background-color: rgb(59, 57, 57);
+    height: 100px;
+    width: 100px;
+    margin:50px;
+    left: 200px;
+    border-radius: 10px;
+
+   
+}
+.box-xpart{
+    position: relative;
+    left: 580px;
+    height: 100px;
+    width: 100px;
+    background-color:rgb(68, 66, 66);
+    margin: 50px;
+    border-radius: 10px;
+
+}
